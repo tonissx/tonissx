@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Antônio%20Gonçalves&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20·%20React%20·%20Next.js%20·%20Node.js%20·%20TypeScript&descAlignY=60&descSize=18" width="100%" />
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+interfaces+que+funcionam.;React+%2F+Next.js+%2F+TypeScript+%2F+Tailwind.;Disponível+para+projetos+freelance+e+CLT.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+interfaces+que+funcionam.;React+%2F+Next.js+%2F+Node.js+%2F+TypeScript+%2F+Tailwind.)](https://git.io/typing-svg)
  
 <br/>
 
