@@ -13,15 +13,16 @@
  
 </div>
 
-## Estudando e me desenvolvendo todos os dias como Desenvolvedor Web!
 
-- 👦 Um apaixonado por tecnologia desde cedo
-- 🖥️ Na adolescencia desenvolvi algumas páginas HTML
-- 🧑‍🎓 Na faculdade tive o primeiro contato com a linguagem C++
-- ✏️ Em 2021 comecei meus estudos em JavaScript!
-- 🙋‍♂️ Ansioso para contribuir em muitos projetos!
-
-<br />
+---
+ 
+## 👨‍💻 Sobre mim
+ 
+Sou Desenvolvedor Full-Stack com foco em **React**, **Next.js**, **Node.js** e **TypeScript**, construindo interfaces rápidas, acessíveis e escaláveis. Tenho experiência com arquiteturas modernas — incluindo monorepos com **Turborepo + pnpm workspaces** — e um cuidado genuíno com qualidade de código e experiência do usuário.
+ 
+Minha trajetória começou cedo com curiosidade por tecnologia, passou por HTML na adolescência e C++ na faculdade, e evoluiu para um foco sólido em **desenvolvimento web moderno a partir de 2021**. Hoje, busco projetos desafiadores onde posso entregar valor real.
+ 
+---
 
 ### Linguagens e ferramentas:
 
