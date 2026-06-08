@@ -40,8 +40,7 @@
   #### ✔️ GitHub Stats
   
 
-  <img align="left" width="440px" alt="Raikouve GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=Raikouve&show_icons=true&theme=algolia"/>
-   <img align="left" width="340px" heigth="400px" alt="Raikouve GitHub Stats" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Raikouve&show_icons=true&layout=compact&theme=algolia"/>
+  <img align="left" width="440px" alt="Raikouve GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=tonissx&show_icons=true&theme=algolia"/>
+   <img align="left" width="340px" heigth="400px" alt="Raikouve GitHub Stats" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tonissx&show_icons=true&layout=compact&theme=algolia"/>
 
 [linkedin]: https://www.linkedin.com/in/tonigoncalves/
-[trybe]: https://www.betrybe.com/
