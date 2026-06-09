@@ -43,9 +43,6 @@ Minha trajetória começou cedo com curiosidade por tecnologia, passou por HTML 
 ![SOLID](https://img.shields.io/badge/SOLID-6D28D9?style=for-the-badge&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0F172A?style=for-the-badge&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-1E40AF?style=for-the-badge&logoColor=white)
-![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-065F46?style=for-the-badge&logoColor=white)
-![Factory](https://img.shields.io/badge/Factory-7C2D12?style=for-the-badge&logoColor=white)
-![Observer](https://img.shields.io/badge/Observer-831843?style=for-the-badge&logoColor=white)
  
 ### Estilo & UI
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
