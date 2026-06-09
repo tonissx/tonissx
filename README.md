@@ -67,6 +67,7 @@ Minha trajetória começou cedo com curiosidade por tecnologia, passou por HTML 
 > Projetos desenvolvidos em ambiente corporativo — repositórios privados. Descrições abaixo refletem arquitetura e decisões técnicas reais.
  
 <br/>
+
 ### 🔒 Sistema de Gestão de RH — Plataforma Corporativa
  
 **Sistema completo de RH** desenvolvido para gestores e equipes de recursos humanos, com foco em controle de colaboradores, processos e parametrização organizacional. Integrado ao ERP Totvs RM via API.
