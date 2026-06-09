@@ -62,6 +62,32 @@ Minha trajetória começou cedo com curiosidade por tecnologia, passou por HTML 
  
 ---
 
+## 🚀 Projetos em Destaque
+ 
+> Projetos desenvolvidos em ambiente corporativo — repositórios privados. Descrições abaixo refletem arquitetura e decisões técnicas reais.
+ 
+<br/>
+### 🔒 Sistema de Gestão de RH — Plataforma Corporativa
+ 
+**Sistema completo de RH** desenvolvido para gestores e equipes de recursos humanos, com foco em controle de colaboradores, processos e parametrização organizacional. Integrado ao ERP Totvs RM via API.
+ 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Totvs RM](https://img.shields.io/badge/ERP%20Totvs%20RM-integração-gray?style=flat-square)
+ 
+**Módulo 1 — Painel de Colaboradores**
+- Dashboard com indicadores por colaborador: dados pessoais, profissionais, faltas, férias e atestados — com filtros reativos implementados via **Event Bus pattern** (observador de estado global que re-renderiza a tabela principal sem framework de estado externo)
+- Página de detalhes com dados cadastrais completos e duas linhas do tempo independentes: **anotações pessoais** e **trajetória na empresa** (promoções, aumentos) — renderização via **Strategy Pattern**, onde cada tipo de evento dispara uma estratégia de renderização diferente
+- Visualização de férias em **gráfico Gantt anual** e **calendário mensal**, com suporte a múltiplos eventos simultâneos
+- Fluxo de processos: avaliação de desempenho, promoção, anotação pessoal e solicitação de férias — todos passando por **workflow de aprovação**
+- **Policy Engine** para validação de processos (férias e promoções): motor que executa múltiplas classes de policy em sequência e retorna erros consolidados, garantindo regras de negócio desacopladas e extensíveis
+**Módulo 2 — Parâmetros e Configurações de RH**
+- **Organograma interativo** da empresa com configuração de permissões baseada em **RBAC modelado em estrutura de árvore** no banco: permissões como "visualizar salário" são válidas apenas para subordinados diretos do portador, respeitando a hierarquia
+- **Audit Log** com níveis (info, warning, error) e **correlationID** para rastreamento de fluxos com eventos sequenciais
+- **Form Builder** via composition para parametrização dinâmica de regras globais (ex: meses válidos para reajuste salarial)
+- **Grade salarial** configurável por cargo e seção da empresa, editável diretamente no organograma
+
 ## 📈 GitHub Stats
  
 <div align="center">
