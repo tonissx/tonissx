@@ -82,6 +82,7 @@ Minha trajetória começou cedo com curiosidade por tecnologia, passou por HTML 
 - Visualização de férias em **gráfico Gantt anual** e **calendário mensal**, com suporte a múltiplos eventos simultâneos
 - Fluxo de processos: avaliação de desempenho, promoção, anotação pessoal e solicitação de férias — todos passando por **workflow de aprovação**
 - **Policy Engine** para validação de processos (férias e promoções): motor que executa múltiplas classes de policy em sequência e retorna erros consolidados, garantindo regras de negócio desacopladas e extensíveis
+
 **Módulo 2 — Parâmetros e Configurações de RH**
 - **Organograma interativo** da empresa com configuração de permissões baseada em **RBAC modelado em estrutura de árvore** no banco: permissões como "visualizar salário" são válidas apenas para subordinados diretos do portador, respeitando a hierarquia
 - **Audit Log** com níveis (info, warning, error) e **correlationID** para rastreamento de fluxos com eventos sequenciais
